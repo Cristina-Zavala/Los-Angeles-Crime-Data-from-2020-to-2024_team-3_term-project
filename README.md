@@ -1,1 +1,1 @@
-# Los-Angeles-Crime-Data-from-2020-to-2024_team-3_term-project
+# Los-Angeles CrimeData from 2020 to 2024
