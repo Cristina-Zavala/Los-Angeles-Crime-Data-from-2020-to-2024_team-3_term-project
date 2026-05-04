@@ -1,0 +1,12 @@
+PUT /lapd_crime_23_24
+{
+"mappings": {
+      "properties": {
+           "location": { "type": "geo_point" },
+            "DATE OCC": { "type": "date", "format": "MM/dd/yyyy hh:mm:ss a" },
+             "Vict Age": { "type": "integer" },
+             "LAT": { "type": "float" },
+             "LON": { "type": "float" }
+        }
+    }
+}
